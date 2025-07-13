@@ -1,0 +1,6 @@
+points,points_diff,rubles,rubles_diff,min_deck_size,points_round_gain,points_round_gain_diff,rubles_round_gain,rubles_round_gain_diff,unique_aristocrats,unique_aristocrats_diff,is_winner
+120,10,50,5,3,6,1,4,0.5,3,1,1
+100,-20,40,-10,4,4,-2,2,-1,2,-1,0
+140,30,60,20,3,8,2,5,1,4,2,1
+95,10,30,10,2,5,2,30,10,7,2,1
+120,10,50,10,2,5,2,40,15,7,2,1
